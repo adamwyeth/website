@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Adam Wyeth's Site</title>
+    </head>
+    <body>
+        <p>Sup, I'm Adam</p>
+        <ul>Resume</ul>
+        <li><a href="documents/Wyeth_Adam_Resume.docx">Download My Resume In a Word Document</a></li>
+        <li><a href="documents/Wyeth_Adam_Resume.pdf">Download My Resume in a PDF</a></li>
+    </body>
+</html>
