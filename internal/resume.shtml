@@ -71,14 +71,14 @@
         <a href="mailto:adamwyeth@uchicago.edu">adamwyeth@uchicago.edu</a>
       </p>
        <div class="row">
-        <div class="col-lg-3">
+        <div class="col-md-3">
           <p><strong>Permanent Address:</strong><br />
             5 Timber Court,<br />
             Yorkville, IL 60560</p>
           </div>
-          <div class="col-lg-6">
+          <div class="col-md-6">
           </div>
-          <div class="col-lg-3">
+          <div class="col-md-3">
             <p><strong>School Address:</strong><br />
               5524 S. Everett Ave,<br />
               Apt 1N<br />
@@ -87,16 +87,69 @@
           </div><!--/.row-->
 
           <h3>EDUCATION</h3>
-          <h3>The University of Chicago, Chicago, IL</h3>
+          <hr />
+          <h4>The University of Chicago, Chicago, IL</h4>
           <p>Bachelor of Arts in Economics, Expected June 2015<br />
             Minor in Computer Science, Expected June 2015<br />
             Cumulative GPA: 3.65/4.00</p>
-          <h3>Yorkville High School, Yorkville, IL</h3>
+          <h4>Yorkville High School, Yorkville, IL</h4>
           <p>Diploma, 2013</p>
           <p><strong>Honors included:</strong> Valedictorian (1 of 327), National Honor Society Member, and Top Math Student of the Class of 2011</p>
 
+          <h3>EXPERIENCE</h3>
+          <hr />
+          <h4>The University of Chicago Computer Science Department, Chicago, IL</h4>
+          <p><em>Teaching Assistant</em>, June 2013-Present</p>
+          <ul>
+            <li>Grades and gives feedback for the work of students, written in Java or Python, in CMSC 121</li>
+            <li>Answers Student Questions</li>
+            <li>Graded the work of students, written in Racket, in CMSC 151 during the Summer Quarter</li>
+          </ul>
+          <h4>The University of Chicago Web Services, Chicago, IL</h4>
+          <p><em>Assistant Web Developer,</em> April 2013-Present</p>
+          <ul>
+            <li>Performs website content updates</li>
+            <li>Assists the development of new websites for UChicago IT Services’ clients</li>
+            <li>Debugged JavaScript and HTML/CSS problems for UChicago sites including <a href="maps.uchicago.edu">maps.uchicago.edu</a> and <a href="ime.uchicago.edu">ime.uchicago.edu</a></li>
+          </ul>
+          <h4>The City of Yorkville, Yorkville, IL</h4>
+          <p><em>Parks Department Summer Help</em>, June 2011 - September 2012, Seasonally</p>
+          <ul>
+            <li>Maintained outdoor park facilitiesM</li>
+          </ul>
+       
 
-       </div>
+       <h3>LEADERSHIP ACTIVITIES</h3>
+       <hr />
+       <h4>Varsity Wrestler, <em>Wrestling Team at the University of Chicago</em>, October 2011 - Present</h4>
+       <ul>
+        <li>Placed 4th at the NCAA Midwest Regional at 133 pounds</li>
+        <li>Recognized Academically by the University Athletic Association</li>
+        <li>Tutors and mentors the 1st-year wrestlers</li>
+      </ul>
+      <h4>Secretary, <em>Young Americans for Liberty, The University of Chicago Chapter</em>, October 2013 - Present</h4>
+      <ul>
+        <li>Enhances political discussion on campus by approaching the concept of liberty differently</li>
+        <li>Founding secretary of the University of Chicago Chapter</li>
+        <li>Takes notes and attendance at meetings</li>
+      </ul>
+      <h4>Captain, <em>Wrestling Team at Yorkville High School</em>, November 2010 - March 2011</h4>
+      <ul>
+        <li>Placed 3rd in the Illinois Individual Wrestling State Tournament twice</li>
+        <li>Varsity Team member for 2 years, Junior Varsity for 2 years</li>
+      </ul>
+
+      <h3>SKILLS</h3>
+      <hr />
+      <ul>
+        <li>Proficient with C and Racket Languages</li>
+        <li>Experience with C++, Objective C, Java, R, PHP, and Python</li>
+        <li>Experience with Unix-based command line and SVN</li>
+        <li>Develops for the web with HTML, CSS and JavaScript</li>
+        <li>Speaks Spanish at the Intermediate Level</li>
+      </ul>
+
+
       <hr class="featurette-divider">
 
       <!-- FOOTER -->
