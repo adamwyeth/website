@@ -65,11 +65,38 @@
 
 
       <hr class="featurette-divider">
+      <p class="text-center">
+        <strong>Adam Wyeth</strong><br />
+        (630) 306-1894<br />
+        <a href="mailto:adamwyeth@uchicago.edu">adamwyeth@uchicago.edu</a>
+      </p>
+       <div class="row">
+        <div class="col-lg-3">
+          <p><strong>Permanent Address:</strong><br />
+            5 Timber Court,<br />
+            Yorkville, IL 60560</p>
+          </div>
+          <div class="col-lg-6">
+          </div>
+          <div class="col-lg-3">
+            <p><strong>School Address:</strong><br />
+              5524 S. Everett Ave,<br />
+              Apt 1N<br />
+              Chicago, IL 60637</p>
+            </div>
+          </div><!--/.row-->
 
-       <div class="row featurette">
-        
+          <h3>EDUCATION</h3>
+          <h3>The University of Chicago, Chicago, IL</h3>
+          <p>Bachelor of Arts in Economics, Expected June 2015<br />
+            Minor in Computer Science, Expected June 2015<br />
+            Cumulative GPA: 3.65/4.00</p>
+          <h3>Yorkville High School, Yorkville, IL</h3>
+          <p>Diploma, 2013</p>
+          <p><strong>Honors included:</strong> Valedictorian (1 of 327), National Honor Society Member, and Top Math Student of the Class of 2011</p>
 
 
+       </div>
       <hr class="featurette-divider">
 
       <!-- FOOTER -->
