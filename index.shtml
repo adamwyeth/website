@@ -74,7 +74,7 @@
             <p class="lead">Just trying to create a public space to share myself and keep a log of what I've been working on.</p>
          </div>
          <div class="col-md-4">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="i/profpic.jpg" alt="Generic placeholder image">
           </div>
        </div>
 
@@ -82,7 +82,7 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <img class="img-circle" src="i/indifference_curves.png" alt="Generic placeholder image">
           <h2>Academics</h2>
           <p>I'm an economics major with a minor in computer science. I've also picked up spanish throughout my studies and will be studying abroad in the spring quarter in Barcelona.</p>
         </div><!-- /.col-lg-4 -->
@@ -92,7 +92,7 @@
           <p>The transition from high school to college wrestling has been difficult. I was one win away from qualifying for the NCAA D3 National tournament last year, losing a close match to the eventual national runner-up.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <img class="img-circle" src="i/side_projects.png" alt="Generic placeholder image">
           <h2>Side Projects</h2>
           <p>Side projects before this have mostly consisted of reading books and gaining knowledge. I've decided it's time to actually create something and see where it goes.</p>
         </div><!-- /.col-lg-4 -->
